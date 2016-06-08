@@ -1,0 +1,6 @@
+C:\Div\Origin\57-Indexer\Indexer\bin\Debug\Indexer.exe.config
+C:\Div\Origin\57-Indexer\Indexer\bin\Debug\Indexer.exe
+C:\Div\Origin\57-Indexer\Indexer\bin\Debug\Indexer.pdb
+C:\Div\Origin\57-Indexer\Indexer\obj\Debug\Indexer.csprojResolveAssemblyReference.cache
+C:\Div\Origin\57-Indexer\Indexer\obj\Debug\Indexer.exe
+C:\Div\Origin\57-Indexer\Indexer\obj\Debug\Indexer.pdb
